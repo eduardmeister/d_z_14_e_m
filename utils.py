@@ -1,7 +1,7 @@
 import sqlite3
 from flask import jsonify
 
-
+#
 def get_data_from_the_table(query):
     """Принимает параметры запроса к sql и возвращает данные"""
 
